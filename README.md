@@ -11,6 +11,10 @@ Passed testcases
   multiarray
 
   manyarguments
+  
+  magic
+  
+  basicopt1
 
 
 To-do List
