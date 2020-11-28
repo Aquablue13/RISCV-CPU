@@ -1,13 +1,20 @@
 # RISCV-CPU
 
-Passed testcases:
+Passed testcases
+---
+  gcd
 
-gcd
+  expr
 
-expr
+  lvalue2
 
-lvalue2
+  multiarray
 
-multiarray
+  manyarguments
 
-manyarguments
+
+To-do List
+---
+  optimize MemCtrl
+  
+  add ICache
