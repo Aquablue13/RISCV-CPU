@@ -22,3 +22,5 @@ To-do List
   optimize MemCtrl
   
   add ICache
+
+  add BranchPredictor
