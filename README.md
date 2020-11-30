@@ -19,7 +19,7 @@ Passed testcases
 
 To-do List
 ---
-  optimize MemCtrl
+  optimize MemCtrl( + issue with io_buffer_full)
   
   add ICache
 
