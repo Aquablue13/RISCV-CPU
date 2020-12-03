@@ -35,7 +35,7 @@ Partly passed testcase
 
 To-do List
 ---
-  MemCtrl need to issue with io_buffer_full
+  MemCtrl need to issue with io_buffer_full (seem to be done but need to check)
 
   add BranchPredictor
   
